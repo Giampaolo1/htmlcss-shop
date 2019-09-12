@@ -1,24 +1,15 @@
-.container {
-  background-color: lightgrey;
-  width: 200px;
-  height: 300px;
-  display: inline-block;
+/* blocco1:  */
+/* blocco2:  */
+/* blocco3:  */
+.inline {
+  display: inline-inline-block;
 }
-/* Container1/ipad  */
-#ipad {
-  position: relative;top
+.yellow {
+  background: yellow;
 }
-#pd1 {
-width: 150px;
-height: 200px;
-position: absolute;bottom
+.red {
+  background: red;
 }
-/* Container2/iphone  */
-#ipad {
-  position: relative;top
-}
-#pd2 {
-width: 150px;
-height: 200px;
-position: absolute;bottom
+span {
+  position:absolute;
 }
