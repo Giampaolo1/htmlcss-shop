@@ -11,12 +11,14 @@
 #pd1 {
 width: 150px;
 height: 200px;
+position: absolute;bottom
 }
-
-
-
-
-
-
 /* Container2/iphone  */
-/* Container3/bose  */
+#ipad {
+  position: relative;top
+}
+#pd2 {
+width: 150px;
+height: 200px;
+position: absolute;bottom
+}
